@@ -28,7 +28,7 @@ This is a food delivery app 🍟 that allows users to order food from different 
 Clone this repository:
 
 ```bash
-$ git clone git@github.com:Jonas56/food-delivery-app.git
+$ git clone git@github.com:ramselv/food-delivery-app.git
 ```
 
 ## Running the app 🎯
